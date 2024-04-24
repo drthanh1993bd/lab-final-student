@@ -1,0 +1,19 @@
+Toy Story, 1995, 81
+A Bug's Life, 1998, 95
+Toy Story 2, 1999, 92
+Monsters Inc, 2001, 92
+Finding Nemo, 2003, 100
+The Incredibles, 2004, 115
+Cars, 2006, 116
+Ratatouille, 2007, 111
+WALL-E, 2008, 98
+Up, 2009, 96
+Toy Story 3, 2010, 103
+Cars 2, 2011, 106
+Brave, 2012, 93
+Monsters University, 2013, 104
+Inside Out, 2015, 102
+The Good Dinasaur, 2015, 101
+Finding Dory, 2016, 100
+Cars 3, 2017, 109
+Coco, 2017, 109
